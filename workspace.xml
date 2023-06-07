@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d81bb87c-4aa9-4622-9532-2719cfa33e47" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\программы\School ВКР.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PgF4Nr3VUazAkhvfXI16aOPqNd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "AnalyzeApkAction.lastApkPath": "C:/Users/TOTOROKYOTO/Desktop/School-UltimateStudyingAss_2.6.5_Apkpure_source_from_JADX",
+    "AndroidProguardConfigPaths": "C:\\Users\\TOTOROKYOTO\\AppData\\Local\\Android\\Sdk\\tools\\proguard\\proguard-android.txt",
+    "AndroidRunProguardForReleaseBuild": "true",
+    "ApkExportedModule": "School",
+    "ExportedApkPathForSchool": "D:\\продажа авито и доскаякт\\Mobile diary.apk",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "ScreenRecorder.SavePath": "C:\\Users\\TOTOROKYOTO\\Desktop\\device-2023-06-07-222227.webm",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/TOTOROKYOTO/Desktop",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TOTOROKYOTO\Desktop\School\src\UI\Img\Shedule" />
+      <recent name="C:\Users\TOTOROKYOTO\Desktop\School\assets" />
+      <recent name="C:\Users\TOTOROKYOTO\Desktop\School\node_modules\@react-native-community" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d81bb87c-4aa9-4622-9532-2719cfa33e47" name="Changes" comment="" />
+      <created>1683870626015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683870626015</updated>
+    </task>
+    <servers />
+  </component>
+</project>
